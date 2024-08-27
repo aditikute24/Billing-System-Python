@@ -3,7 +3,7 @@
 
 A Python-based restaurant billing system designed to help manage and calculate bills for customers efficiently. This project features a graphical user interface (GUI) built using Tkinter, providing an easy-to-use interface for restaurant staff to generate bills, track orders, and calculate totals, taxes, and more.
 
-![Restaurant Billing System](https://github.com/aditikute24/Billing-System-Python/blob/main/screenshot.png)
+![Restaurant Billing System](https://github.com/user-attachments/assets/27966e98-0a56-4239-a07c-c23f4c42e581)
 
 ## Features
 
