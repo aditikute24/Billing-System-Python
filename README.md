@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
 4. **Run the application**:
 
    ```bash
-   python billing_system.py
+   python Restaurant.py
    ```
 
 ## Usage
