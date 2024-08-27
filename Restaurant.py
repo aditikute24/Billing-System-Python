@@ -141,7 +141,7 @@ class Bill_App:
         scrol_y.config(command=self.txtarea.yview)
         self.txtarea.pack(fill=BOTH,expand=1)
         #=================================================billing menu=========================================================================================
-        billing_menu=LabelFrame(self.root,text="Billing Summery- CodeWithCurious",font=("Arial Black",12),relief=GROOVE,bd=10,bg="#A569BD",fg="white")
+        billing_menu=LabelFrame(self.root,text="Billing Summery- aditikute",font=("Arial Black",12),relief=GROOVE,bd=10,bg="#A569BD",fg="white")
         billing_menu.place(x=0,y=560,relwidth=1,height=137)
 
         total_snacks=Label(billing_menu,text="Total Snacks Price",font=("Arial Black",11),bg="#A569BD",fg="white").grid(row=0,column=0)
