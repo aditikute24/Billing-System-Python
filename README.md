@@ -3,8 +3,7 @@
 
 A Python-based restaurant billing system designed to help manage and calculate bills for customers efficiently. This project features a graphical user interface (GUI) built using Tkinter, providing an easy-to-use interface for restaurant staff to generate bills, track orders, and calculate totals, taxes, and more.
 
-![Restaurant Billing System](https://github.com/user-attachments/assets/27966e98-0a56-4239-a07c-c23f4c42e581)
-
+![Restaurant Billing System](https://github.com/user-attachments/assets/b3970911-5b34-4e81-b357-6bc3738a0d80)
 ## Features
 
 - **Customer Information**: Input fields for customer name, contact number, and bill number.
